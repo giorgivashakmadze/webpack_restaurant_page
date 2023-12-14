@@ -1,4 +1,4 @@
-// src/index.js
+//main content initialiser
 import initPage from './initPage';
 import createContactTab from './contactTab';
 import createMenuTab from './menuTab';

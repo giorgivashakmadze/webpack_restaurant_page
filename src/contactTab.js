@@ -1,13 +1,13 @@
-// src/contactTab.js
+//creates simple div and adds to content div
 export default function createContactTab(contentDiv) {
   contentDiv.innerHTML = `
     <h2>Contact Us</h2>
     <p>
       For reservations or inquiries, please contact us at:
       <br>
-      Email: info@example.com
+      Email: menu@example.com
       <br>
-      Phone: +1 (123) 456-7890
+      Phone: 599 56 54 87
     </p>
   `;
 }
